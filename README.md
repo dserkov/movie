@@ -2,7 +2,7 @@
 
 Movie trailer website is a script that will help you organize your movies in one place with an www page that will provide Titles, Trailers, and story line.
 
-INSTALL
+# INSTALL
 
 place all 3 files in the same folder where you will be able to run it to see the result. Open your favorite terminal windows and run the following:
 
@@ -16,6 +16,6 @@ or
 This will generate an fresh_tomatoes.html that will get opened in your web browser.
 
 
-SUPPORTED PYTHON VERSIONS
+# SUPPORTED PYTHON VERSIONS
 
 2.x and 3.x
