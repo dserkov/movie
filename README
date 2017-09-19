@@ -1,36 +1,21 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+MOVIE TRAILER WEBSITE
 
-\f0\b\fs24 \cf0 MOVIE TRAILER WEBSITE
-\b0 \
-\
-Movie trailer website is a script that will help you organize your movies in one place with an www page that will provide Titles, Trailers, and story line.\
-\
+Movie trailer website is a script that will help you organize your movies in one place with an www page that will provide Titles, Trailers, and story line.
 
-\b INSTALL
-\b0 \
-\
-place all 3 files in the same folder where you will be able to run it to see the result. Open your favorite terminal windows and run the following:\
-\
-	python3 entertainment_center.py\
-\
-or\
-\
-	python entertainment_center.py\
-\
-\
-This will generate an fresh_tomatoes.html that will get opened in your web browser.\
-\
-\
+INSTALL
 
-\b SUPPORTED PYTHON VERSIONS
-\b0 \
-\
-2.x and 3.x\
-\
-\
-}
+place all 3 files in the same folder where you will be able to run it to see the result. Open your favorite terminal windows and run the following:
+
+	python3 entertainment_center.py
+
+or
+
+	python entertainment_center.py
+
+
+This will generate an fresh_tomatoes.html that will get opened in your web browser.
+
+
+SUPPORTED PYTHON VERSIONS
+
+2.x and 3.x
