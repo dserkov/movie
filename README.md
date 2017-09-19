@@ -12,9 +12,7 @@ or
 
 	python entertainment_center.py
 	
-this will open a webbrowser that display the page.
-
-
+	
 This will generate an fresh_tomatoes.html that will get opened in your web browser.
 
 
