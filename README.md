@@ -1,4 +1,4 @@
-	#MOVIE TRAILER WEBSITE
+# MOVIE TRAILER WEBSITE
 
 Movie trailer website is a script that will help you organize your movies in one place with an www page that will provide Titles, Trailers, and story line.
 
