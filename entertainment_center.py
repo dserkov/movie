@@ -35,16 +35,16 @@ goodfellas = media.Movie("Goodfellas",
                          "https://www.youtube.com/watch?v=qo5jJpHtI1Y")
 
 once_upon_a_time_in_merica = media.Movie("Once Upon a Time in America",
-                                         "Once Upon a Time in America is a 1984 Italian-American epic crime\
-                                          drama film co-written and directed by Italian\
-                                          filmmaker Sergio Leone and starring Robert De\
-                                          Niro and James Woods",
-                                         "https://upload.wikimedia.org/wikipedia/en/d/d8/Once_Upon_A_Time_In_America1.jpg",  # NOQA
-                                         "https://www.youtube.com/watch?v=LcpCRyNo8T8")
+                                        "Once Upon a Time in America is a 1984 Italian-American epic crime\
+                                drama film co-written and directed by Italian\
+                                filmmaker Sergio Leone and starring Robert De\
+                                Niro and James Woods",
+                                "https://upload.wikimedia.org/wikipedia/en/d/d8/Once_Upon_A_Time_In_America1.jpg",  # NOQA
+                                "https://www.youtube.com/watch?v=LcpCRyNo8T8")
 
 king_of_new_york = media.Movie("King of New York",
                                "King of New York is a 1990 Italian-American crime thriller film,\
-                                starring Christopher Walken, Laurence Fishburne, \
+                            starring Christopher Walken, Laurence Fishburne, \
                                 David Caruso, Wesley Snipes, Victor Argo, and \
                                 Giancarlo Esposito",
                                "https://upload.wikimedia.org/wikipedia/en/3/36/King_of_new_york_ver1.jpg",  # NOQA
@@ -69,4 +69,3 @@ a_bronx_tale = media.Movie("A Bronx Tale",
 movies = [toy_story, avatar, donnie_brasco, casino, goodfellas,
           once_upon_a_time_in_merica, king_of_new_york, a_bronx_tale]
 fresh_tomatoes.open_movies_page(movies)
-
